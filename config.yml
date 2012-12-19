@@ -14,3 +14,5 @@ Grenades:
     confusion: 2
     slowness: 2
     effectDuration: 5
+  Smoke:
+    radius: 3
